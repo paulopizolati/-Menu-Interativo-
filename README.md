@@ -10,8 +10,8 @@
         String menu = "        MENU PRINCIPAL\n"
                 + " 1) Conversor de Temperatura\n"
                 + " 2) Cálculo de Fatorial\n"
-                + " 3)  Média de Notas\n"
-                + " 4)  Horário Internacional\n"
+                + " 3) Média de Notas\n"
+                + " 4) Horário Internacional\n"
                 + " 0) Encerrar Programa\n\n"
                 + "Escolha uma opção:";
         entrada = JOptionPane.showInputDialog(null, menu, "Menu", JOptionPane.QUESTION_MESSAGE);
